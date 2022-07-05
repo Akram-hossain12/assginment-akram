@@ -60,5 +60,62 @@ body{
     padding: 40px;
     border-radius: 5px;
     background-color: #dcb1b1;
-    border: 4px solid rgb(244, 65, 65);
+    border: 4px solid #271b05;
+}
+input{
+    border: none;
+    padding: 40px 20px 10px 40px;
+    margin-top: 40px;
+    font-size: 25px;
+    color: #777575;
+    border-bottom: 3px solid #777575;
+    margin-bottom: 50px;
+}
+.donate-section a{
+   background-color: #ff4552;
+   text-decoration: none; 
+   padding: 17px 30px;
+   color: white;
+   font-size: 22px;
+   border-radius: 5px;
+}
+#donate-plane{
+    padding: 30px;
+    text-align: center;
+}
+#donate-plane h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+#donate-plane p{
+    font-size: 20px;
+    color: #717171;
+}
+.donate-for{
+    display: flex;
+}
+.for-who{
+    width: 28%;
+    margin-left: 4%;
+    padding: 30px 25px;
+    margin-right: 4%;
+    border-radius: 5px;
+}
+.for-who h1{
+    font-size: 25px;
+    font-weight: 600;
+}
+.for-who p{
+    font-size: 18px;
+    color: #717171;
+}
+#green{
+    background-color: #b8c8b5;
+  
+}
+#red{
+    background-color: #d8bdae;
+}
+#yellow{
+    background-color: #d2d5bd;
 }
